@@ -30,15 +30,35 @@ I design, build, and scale production-ready, self-service Internal Developer Pla
 
 ## 🚀 Featured Flagship Systems
 
+### 🧠 [InsureLLM Hybrid RAG Application](https://github.com/imhashmi8/insurellm-hybrid-rag)
+An independent intelligent framework combining semantic vector and keyword searches to process highly complex insurance policies[cite: 1]. Built using advanced vector embedding principles, custom prompt flows, and vector databases to deliver highly contextualized, hallucination-resistant responses[cite: 1].
+
+### 🛠️ [AutoOps 3-Tier Ansible Platform](https://github.com/imhashmi8/autoops-3tier-ansible-platform)
+An automated configuration management and infrastructure provisioner engine. Leverages Ansible roles and playbooks to enforce automated VM patching, drift remediation, and systems hardening across a multi-tier cloud topology.
+
 ### 🌐 [Internal Developer Platform Control Plane](https://github.com/imhashmi8/internal-developer-platform-control-plane)
-A Staff-level architecture blueprint for an enterprise self-service platform. It abstracts cloud infrastructure complexities away from developers, allowing automated environment provisioning while maintaining corporate compliance and IAM guardrails.
+A Staff-level architecture blueprint for an enterprise self-service platform[cite: 1]. It abstracts cloud infrastructure complexities away from developers, allowing automated environment provisioning while maintaining corporate compliance and IAM guardrails.
 
 ### ☸️ [End-to-End EKS Platform Engineering System](https://github.com/imhashmi8/end-to-end-Eks-platform-engineering-system)
-A production-ready AWS EKS deployment implemented completely via Infrastructure as Code (IaC). Features enterprise-grade add-ons for cluster autoscaling, centralized logging, secrets management, and ingress governance.
+A production-ready AWS EKS deployment implemented completely via Infrastructure as Code (IaC)[cite: 1]. Features enterprise-grade add-ons for cluster autoscaling, centralized logging, secrets management, and ingress governance[cite: 1].
 
-### 🔄 [AWS Enterprise 3-Tier Architecture via GitOps](https://github.com/imhashmi8/aws-enterprise-3tier-architecture)
-A highly available, fault-tolerant 3-tier web application stack deployed using continuous structural governance. Implements isolated network subnets, automated failovers, and robust backend storage decoupling.
+### 🐙 [GitOps ArgoCD K8s Deployment](https://github.com/imhashmi8/gitops-argocd-k8s-deployment)
+A declarative continuous delivery setup modeling modern GitOps standards. Uses ArgoCD to monitor source code changes, reconcile desired vs. live environment states, and execute zero-downtime, fully trackable Kubernetes rollouts.
 
+### 📊 [AKS Cluster Monitoring Stack](https://github.com/imhashmi8/aks-cluster-monitoring)
+An enterprise SRE observability framework tailored for Microsoft Azure. Implements Prometheus and Grafana over AKS to provision robust burn-rate alerting strategies, decrease MTTD, and trace multi-tenant workload performance metrics.
+
+### 📈 [Expense Tracker Azure DevOps Pipeline](https://github.com/imhashmi8/expense-tracker-azure-devops-pipeline)
+A comprehensive CI/CD release engineering project utilizing Azure Pipelines. Establishes robust multi-stage build gates, artifact management, unit testing automation, and continuous delivery flows targeting Azure cloud resources.
+
+### 🔄 [Jenkins GitOps Kubernetes App](https://github.com/imhashmi8/jenkins-gitops-kubernetes-app)
+An enterprise-grade automated CI/CD engine leveraging Jenkins pipelines to coordinate versioned, declarative GitOps deployment models across scalable Kubernetes clusters, eliminating drift and accelerating cycle times[cite: 1].
+
+### 🏗️ [Jenkins GitOps Kubernetes Deployment](https://github.com/imhashmi8/jenkins-gitops-kubernetes-deployment)
+A specialized DevOps repository breaking down modular Jenkins Shared Libraries and reusable declarative pipeline stages designed specifically to provision immutable configurations across enterprise K8s clusters.
+
+### 🎵 [AI Song Lyrics Analyzer](https://github.com/imhashmi8/AI-Song-Lyrics-Analyzer)
+A data-intensive AI utility showcasing frontier model integrations for deep contextual semantic analysis. Implements custom pipeline logic, log management, and modern streaming architectures to demonstrate production-level AI application engineering.
 ---
 
 ## 📈 GitHub Metrics & Analytics

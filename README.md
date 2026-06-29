@@ -105,6 +105,7 @@ Platform, DevOps, and Site Reliability Engineer with **5+ years** designing and 
 
 ### 📊 SRE & Observability
 
+- **[Platform Observability Stack](https://github.com/imhashmi8/platform-observability-stack)** — A production-ready observability platform on AWS EKS instrumenting a three-tier app (React + FastAPI + PostgreSQL). Full-stack metrics, logs, and traces (Prometheus, Loki, Grafana Tempo, Grafana), SLI/SLO recording rules with 30-day error budgets, multi-window burn-rate alerting, and LitmusChaos failure injection to prove recovery — delivered via Terraform IaC and ArgoCD app-of-apps GitOps.
 - **[AKS Cluster Monitoring Stack](https://github.com/imhashmi8/aks-cluster-monitoring)** — An enterprise SRE observability framework for Azure: Prometheus + Grafana over AKS driving burn-rate alerting, decreasing MTTD, and tracing multi-tenant workload performance.
 
 ### 🤖 Automation & AI

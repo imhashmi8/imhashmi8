@@ -123,10 +123,6 @@ Platform, DevOps, and Site Reliability Engineer with **5+ years** designing and 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imhashmi8&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhashmi8&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</p>
-
 ---
 
 ## 🎓 Education & Certifications

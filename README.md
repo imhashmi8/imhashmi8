@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-Platform, DevOps, and Site Reliability Engineer with **5+ years** designing and operating resilient cloud-native platforms on **AWS, Azure, and Kubernetes**. I specialize in GitOps-driven delivery, infrastructure automation, and production observability that drive operational excellence and deployment velocity — turning infrastructure complexity into golden paths developers actually enjoy using.
+Platform, DevOps, and Site Reliability Engineer with **6+ years** designing and operating resilient cloud-native platforms on **AWS, Azure, and Kubernetes**. I specialize in GitOps-driven delivery, infrastructure automation, and production observability that drive operational excellence and deployment velocity — turning infrastructure complexity into golden paths developers actually enjoy using.
 
 - 🔭 **Currently:** Platform / SRE Engineer at **Hasura**, scaling production Kubernetes for the GraphQL Engine (v2/DDN) & PromptQL
 - ⚙️ **I work across:** the full platform lifecycle — provisioning, CI/CD, reliability, and incident response
